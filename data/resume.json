@@ -1,0 +1,102 @@
+{
+  "name": "Uha Chinnam",
+  "title": "QA Automation Engineer",
+  "contact": {
+    "email": "uhachinnam@gmail.com",
+    "phone": "",
+    "github": "",
+    "linkedin": "www.linkedin.com/in/uha-chinnam"
+  },
+  "summary": "QA Automation Engineer with over 7 years of experience in testing web, mobile, and API applications across banking, healthcare, and telecom domains. Skilled in Selenium, Cypress, Playwright, Appium, and Rest Assured, I design robust automation frameworks (POM, BDD, Data-Driven) integrated with Jenkins and GitHub Actions for CI/CD. Proficient in Java, Python, and SQL, I ensure high-quality releases through efficient test design, performance validation, and continuous integration. Passionate about automation, process optimization, and collaboration, I focus on improving software reliability and accelerating delivery in fast-paced Agile environments.",
+  "skills": [
+    {
+      "category": "Core Competencies",
+      "items": ["Selenium", "Cypress", "Playwright", "Appium", "REST API", "Jenkins", "Java", "SQL", "LoadRunner", "JMeter", "Testing"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Quality Assurance Engineer",
+      "company": "Charles River Development",
+      "period": "February 2026 - Present",
+      "highlights": [
+        "Currently working as a Quality Assurance Engineer focusing on automation and release validation."
+      ]
+    },
+    {
+      "role": "Keyboard Shortcut Specialist",
+      "company": "micro1",
+      "period": "January 2026 - March 2026",
+      "highlights": [
+        "Contributed to specialized efficiency mappings and process optimization."
+      ]
+    },
+    {
+      "role": "SDET",
+      "company": "Verizon",
+      "period": "September 2024 - January 2026",
+      "highlights": [
+        "Contributed to the Enterprise Automation and Data Validation Framework, focusing on improving application quality, data integrity, and deployment efficiency.",
+        "Designed and executed Playwright automation frameworks.",
+        "Validated complex ETL pipelines and integrated testing into CI/CD workflows.",
+        "Collaborated closely with cross-functional Agile teams to enhance test coverage across UI, API, and database layers, ensuring faster, more reliable releases across Verizon’s enterprise platforms."
+      ]
+    },
+    {
+      "role": "QA Engineer",
+      "company": "TD",
+      "period": "February 2022 - January 2024",
+      "highlights": [
+        "Led the development of an end-to-end test automation framework using Selenium WebDriver for UI testing and REST Assured for API validation.",
+        "Ensured functional stability, integration accuracy, and data consistency across multiple banking applications.",
+        "Performed SQL-based backend and ETL data validation, verifying transactional data integrity across core systems.",
+        "Streamlined regression cycles, improved release confidence, and strengthened CI/CD-driven test automation within an Agile environment."
+      ]
+    },
+    {
+      "role": "Software Test Engineer",
+      "company": "CVS Health",
+      "period": "December 2018 - February 2022",
+      "highlights": [
+        "Automated and validated key functionalities across healthcare and pharmacy management applications.",
+        "Used Selenium WebDriver for web automation and SQL for backend data validation, ensuring accuracy in prescription processing, claims adjudication, and patient data workflows.",
+        "Validated integrations between healthcare modules and APIs to maintain compliance with HIPAA and PHI standards.",
+        "Contributed to higher product reliability and faster regression testing cycles within an Agile environment."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Lean Six Sigma White Belt Certification",
+      "issuer": "LinkedIn",
+      "details": ""
+    },
+    {
+      "name": "Data Analysis with Python",
+      "issuer": "LinkedIn",
+      "details": ""
+    },
+    {
+      "name": "Lean Six Sigma and RPA Dynamics",
+      "issuer": "LinkedIn",
+      "details": ""
+    },
+    {
+      "name": "Python 101 for Data Science",
+      "issuer": "LinkedIn",
+      "details": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters in Power Systems",
+      "institution": "Jawaharlal Nehru Technological University Hyderabad (JNTUH)",
+      "period": "August 2019 - December 2021"
+    },
+    {
+      "degree": "Bachelor of Technology - BTech, Electrical and Electronics Engineering",
+      "institution": "Anurag Group of Institutions",
+      "period": "August 2012 - August 2016"
+    }
+  ]
+}
